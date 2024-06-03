@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyxevid
+- 👋 Hi, I’m @Kwame
 - 👀 I’m interested in IT/Data Safety Roles
 - 🌱 I’m currently learning Data Analysis/Ceber Security
 - 💞️ I’m looking to collaborate on with Cyber Security Specialists 
